@@ -1,0 +1,6 @@
+**********LEVELS**********
+1: The sun, white
+2: The planets and asteroids as they both revolve only around the sun, red
+3: Moon of earth, Purple 
+4: 2 satalites launched from earth, 1 goes into the sun and the other revolves around the sun like the parker solar probe, orange 
+**************************
